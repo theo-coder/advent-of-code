@@ -4,7 +4,7 @@ fn main() {
     dbg!(output);
 }
 
-fn solve_part2(input: &str) -> i64 {
+fn solve_part2(input: &str) -> usize {
     todo!()
 }
 
