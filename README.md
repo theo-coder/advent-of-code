@@ -34,6 +34,7 @@ cargo run --release --bin part2
 
 | day | solution |
 | --- | --- |
+| [day11](https://adventofcode.com/2024/day/11) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-11) |
 | [day10](https://adventofcode.com/2024/day/10) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-10) |
 | [day09](https://adventofcode.com/2024/day/9) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-09) |
 | [day08](https://adventofcode.com/2024/day/8) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-08) |
