@@ -30,18 +30,17 @@ cargo run --release --bin part2
 
 ## Editions
 
-### 2024
-
-| day | solution |
-| --- | --- |
-| [day11](https://adventofcode.com/2024/day/11) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-11) |
-| [day10](https://adventofcode.com/2024/day/10) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-10) |
-| [day09](https://adventofcode.com/2024/day/9) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-09) |
-| [day08](https://adventofcode.com/2024/day/8) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-08) |
-| [day07](https://adventofcode.com/2024/day/7) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-07) |
-| [day06](https://adventofcode.com/2024/day/6) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-06) |
-| [day05](https://adventofcode.com/2024/day/5) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-05) |
-| [day04](https://adventofcode.com/2024/day/4) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-04) |
-| [day03](https://adventofcode.com/2024/day/3) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-03) |
-| [day02](https://adventofcode.com/2024/day/2) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-02) |
-| [day01](https://adventofcode.com/2024/day/1) | [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-01) |
+| 2024 |
+| --- |
+| [day12](https://adventofcode.com/2024/day/12) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-12) |
+| [day11](https://adventofcode.com/2024/day/11) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-11) |
+| [day10](https://adventofcode.com/2024/day/10) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-10) |
+| [day09](https://adventofcode.com/2024/day/9) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-09) |
+| [day08](https://adventofcode.com/2024/day/8) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-08) |
+| [day07](https://adventofcode.com/2024/day/7) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-07) |
+| [day06](https://adventofcode.com/2024/day/6) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-06) |
+| [day05](https://adventofcode.com/2024/day/5) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-05) |
+| [day04](https://adventofcode.com/2024/day/4) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-04) |
+| [day03](https://adventofcode.com/2024/day/3) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-03) |
+| [day02](https://adventofcode.com/2024/day/2) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-02) |
+| [day01](https://adventofcode.com/2024/day/1) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-01) |
