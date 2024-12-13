@@ -16,6 +16,22 @@ This is my repository for advent of code, some daily programming challenges duri
 
 To run the tests for a day simply run the following command in the directory of your choice:
 ```bash
+cargo test
+```
+
+### Answer
+
+To get the final answer of a day run the following:
+```bash
+cargo run --release
+```
+
+## Old Usage for (2024-01 -> 2024-12)
+
+### Tests
+
+To run the tests for a day simply run the following command in the directory of your choice:
+```bash
 cargo test --bin part1
 cargo test --bin part2
 ```
@@ -32,6 +48,7 @@ cargo run --release --bin part2
 
 | 2024 |
 | --- |
+| [day13](https://adventofcode.com/2024/day/13) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-13) |
 | [day12](https://adventofcode.com/2024/day/12) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-12) |
 | [day11](https://adventofcode.com/2024/day/11) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-11) |
 | [day10](https://adventofcode.com/2024/day/10) - [solution](https://github.com/theo-coder/advent-of-code/tree/main/2024/day-10) |
